@@ -1,1 +1,5 @@
+<<<<<<< HEAD
 Color: blue
+=======
+Color: green
+>>>>>>> branch-b
