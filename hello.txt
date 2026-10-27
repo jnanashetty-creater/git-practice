@@ -1,3 +1,2 @@
 Hello git
 Second line
-Bad line
